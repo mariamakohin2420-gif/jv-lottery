@@ -1,5 +1,4 @@
 package core.basesyntax;
 
-public class ball {
-
+public enum Colors {
 }
